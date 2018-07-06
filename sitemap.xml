@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/drinks/singapore-sling/</loc>
+    <lastmod>2017-05-17T13:03:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-05-17T13:03:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/dinner/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/drinks/</loc>
+    <lastmod>2017-05-17T13:03:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/drinks/</loc>
+    <lastmod>2017-05-17T13:03:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/food/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/gallery/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/lunch/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/gallery/bar/</loc>
+  </url>
+  
+  <url>
+    <loc>/food/dinuguan/</loc>
+  </url>
+  
+  <url>
+    <loc>/food/halohalo/</loc>
+  </url>
+  
+  <url>
+    <loc>/gallery/kitchen/</loc>
+  </url>
+  
+  <url>
+    <loc>/gallery/meat/</loc>
+  </url>
+  
+  <url>
+    <loc>/gallery/outside/</loc>
+  </url>
+  
+  <url>
+    <loc>/gallery/oyester/</loc>
+  </url>
+  
+  <url>
+    <loc>/drinks/redhorse/</loc>
+  </url>
+  
+  <url>
+    <loc>/gallery/rice/</loc>
+  </url>
+  
+  <url>
+    <loc>/drinks/sanmiguel/</loc>
+  </url>
+  
+  <url>
+    <loc>/gallery/washing/</loc>
+  </url>
+  
+  <url>
+    <loc>/gallery/windows/</loc>
+  </url>
+  
+</urlset>
